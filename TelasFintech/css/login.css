@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;700&display=swap');
+
+* {
+    background-color: #2B4C7E;
+    font-family: 'Poppins', sans-serif;
+    color: #fff !important;
+}
+
+body{
+    background: #2B4C7E;
+}
+
+.navbar-brand i{
+    font-size: 40px;
+}
+
+.div-login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    height: 100%;
+}
+
+nav{
+    padding: 20px;
+}
+
+.img-logo{
+    width: 50px;
+    margin-bottom: 10px;
+}
+
+.login-p{
+    font-weight: bold;
+}
+
+.div-inputs-login {
+    padding: 40px;
+    border: 2px solid #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.div-inputs-login button{
+    width: 300px;
+    border: none;
+    background-color: #fff;
+    color: #2B4C7E !important;
+    font-weight: bold;
+    height: 40px;
+    border-radius: 5px;
+
+}
+
+.div-inputs-login a{
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.input-login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px; 
+}
+
+.input-login input {
+    border: none;
+    background-color: rgba(255, 255, 255, 0.6);
+    height: 36px;
+    width: 250px;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.input-login i {
+    background-color: #fff;
+    color: rgb(60, 59, 59) !important;
+    font-size: 20px;
+    padding: 8px 15px;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.linha-horizontal{
+    width: 100px;
+    border: 1px solid #fff;
+    height: 0px;
+    margin: 30px;
+    background-color: #fff;
+}
+
+.linha-ou{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.linha-ou p{
+    margin-top: 5px;
+}
+
+.button-fg img{
+    background-color: #fff;
+    margin-right: 5px;
+}
+
+.button-fg{
+    color: rgba(0, 0, 0, 0.65) !important;
+    font-size: 12px;
+    margin: 5px;
+}
+
+.cadastre-se{
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+.cadastre-se a{
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.img-login img{
+    width: 450px;
+    margin-left: 100px;
+}
