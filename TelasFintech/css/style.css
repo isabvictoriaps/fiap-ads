@@ -140,3 +140,60 @@ h2 {
     width: 350px;
     margin: 0px 40px 0px 40px;
 }
+
+.section-four{
+    background-color: #fff;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.section-four h3{
+    color: #2B4C7E !important;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+.formulario-contato{
+    display: flex;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+}
+
+.image-contato img{
+    width: 500px;
+}
+
+input{
+    background-color: #D9D9D9;
+    border: none;
+    margin: 5px;
+    height: 50px;
+    width: 400px;
+}
+
+input::placeholder{
+    padding: 10px;
+}
+
+#mensagem{
+    height: 100px;
+}
+
+button{
+    background-color: #2B4C7E;
+    width: 400px;
+    height: 50px;
+    border: none;
+    color: #fff;
+}
