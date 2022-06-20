@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;700&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: white;
+    height: 100%;
+    display: flex;
+}
+
+aside {
+    background-color: #2B4C7E;
+    width: 330px;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 45px;
+}
+
+.image-aside {
+    width: 120px;
+    margin-bottom: 15px;
+}
+
+.div-links {
+    margin: 30px 0px 30px 0;
+    width: 100%;
+}
+
+.item-link {
+    display: flex;
+    font-size: 20px;
+    justify-content: start;
+    margin: 20px;
+}
+
+.item-link i {
+    margin-right: 20px;
+    font-size: 28px;
+}
+
+.area-icones i {
+    font-size: 40px;
+    margin: 10px;
+    margin-top: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    font-weight: bold;
+    color: #fff;
+}
+
+section {
+    width: 100%;
+}
+
+.bem-vindo {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 30px 40px 20px 40px;
+}
+
+.profile-notificacion {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.profile-notificacion i {
+    font-size: 30px;
+    color: #2B4C7E;
+}
+
+.visao-geral p {
+    font-weight: 500;
+}
+
+.despesas-receita {
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.linha-horizontal {
+    width: 1px;
+    height: 200px;
+    background-color: #2B4C7E;
+}
+
+.profile-notificacion p {
+    margin: 10px 20px 0px 20px;
+}
+
+.despesa {
+    text-align: center;
+    margin: 0 80px 0 80px;
+}
+
+.p-despesas {
+    color: red;
+    font-weight: 600;
+}
+
+.receita {
+    text-align: center;
+    margin: 0 80px 0 80px;
+}
+
+.p-receita {
+    color: #00A699;
+    font-weight: 600;
+}
+
+.metas {
+    width: 336px;
+    height: 263px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.dinheiro-meta {
+    display: flex;
+    justify-content: space-around;
+}
+
+.nome-metas a {
+    color: #2B4C7E;
+    font-weight: 500;
+}
+
+.nome-metas {
+    display: flex;
+    justify-content: space-between;
+    color: #2B4C7E;
+    font-weight: bold;
+    padding: 0px 30px;
+}
+
+.metas-check {
+    padding: 0 30px;
+    margin-top: 10px;
+}
+
+.metas-check button {
+    background-color: #2B4C7E;
+    border: none;
+    color: #fff;
+    width: 280px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.gastos-pagamentos{
+    display: flex;
+    justify-content: space-around;
+}
+
+.gastos-item {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    width: 600px;
+    height: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 30px 0px 30px 50px;
+}
+
+.gastos-recentes{
+    display: flex;
+    color: #2B4C7E;
+    font-weight: bold;
+    justify-content: space-between;
+    padding: 0px 50px;
+}
+
+.gastos-recentes a{
+    color: #2B4C7E;
+    font-weight: 400;
+}
+
+.valor-gasto {
+    color: red;
+    font-weight: 600;
+}
+
+.pagamentos {
+    width: 336px;
+    height: 300px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.itens-pagamento{
+    margin-top: 30px;
+}
+
+.pagamentos-item{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 0;
+    text-align: start;
+}

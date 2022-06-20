@@ -41,6 +41,19 @@ nav {
     text-align: center;
 }
 
+.nav-link:hover{
+    color: rgb(37, 37, 34) !important;
+}
+
+.entrar:hover{
+    background-color: #fff;
+}
+
+.entrar a:hover{
+    color: #2B4C7E !important;
+    transform: 5s;
+}
+
 .section-one {
     margin-top: 100px;
     display: flex;
