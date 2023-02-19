@@ -13,7 +13,7 @@ disponibilizá-las como um serviço web.
 
 #
 
-<h4>👩🏼‍💻 Matérias do primeiro ano da graduação:</h4> 
+<h4>👩🏼‍💻 Matérias do primeiro ano da graduação(2022):</h4> 
 - AGILE SOFTWARE DESIGN <br>
 - AI & CHATBOT <br>
 - BUILDING RELATIONAL DATABASE <br>
@@ -21,5 +21,19 @@ disponibilizá-las como um serviço web.
 - <a href="DOMAIN DRIVEN DESIGN">DOMAIN DRIVEN DESIGN </a> <br>
 - FORMAÇÃO SOCIAL E SUSTENTABILIDADE <br>
 - RESPONSIVE WEB DEVELOPMENT <br>
+
+
+<h4>👩🏼‍💻 Matérias do segundo ano da graduação(2023):</h4>
+- DATABASE APPLICATION DEVELOPMENT AND BIG DATA <br>
+- DISRUPTIVE ARCHITECTURES: AI & IOT <br>
+- ENTERPRISE APPLICATION DEVELOPMENT <br>
+- ENTERPRISE APPLICATION INTEGRATION <br>
+- ENTREPRENEURSHIP PROGRAM <br>
+- MOBILE DEVELOPMENT <br>
+- TECHNOLOGY GOVERNANCE <br>
+
+
+
+
 
 
